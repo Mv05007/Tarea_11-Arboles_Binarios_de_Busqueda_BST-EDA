@@ -139,7 +139,7 @@ java -cp bin Main
 A continuación se adjunta el enlace al video explicativo sobre Tarea 11-Arboles binarios de búsqueda LST. En esta grabación, demostramos la ejecución en vivo del sistema, explicando detalladamente la lógica algorítmica detrás de las operaciones de inserción, búsqueda y los tres casos de eliminación en el Árbol Binario de Búsqueda.
 
 * **Sustentación del proyecto:** [https://youtu.be/9MSXXsGCYrI](https://youtu.be/9MSXXsGCYrI)
-
+* **Nota aclaratoria sobre la versión del código:** El video explicativo fue grabado utilizando la versión inicial del sistema, enfocada en demostrar visualmente la fluidez algorítmica de las operaciones principales (inserción, búsqueda iterativa y los tres casos de eliminación recursiva) desarrolladas en el taller. Posteriormente a la grabación, el código fuente definitivo adjunto en este repositorio fue ampliado y optimizado para automatizar las inserciones y búsquedas específicas, y para incorporar los recorridos complementarios solicitados.
 ---
 
 ## 7. Enlace a Diagramas (Figma)
@@ -155,3 +155,22 @@ En cumplimiento con las instrucciones de la guía de la asignatura, a continuaci
 ## 8. Declaración Obligatoria de Integridad Académica y Uso de IA
 
 Nosotros, los integrantes del grupo, declaramos bajo compromiso de integridad académica que el código fuente presentado fue estructurado, analizado y desarrollado algorítmicamente en estricto cumplimiento con la lógica establecida en nuestro taller físico. Se utilizó Inteligencia Artificial (IA) exclusivamente como herramienta de consulta para la validación de la sintaxis iterativa en Java y para estructurar el formato de presentación en Markdown de este documento, respetando integralmente las directrices de la asignatura. Garantizamos que el código, la ejecución y las salidas mostradas corresponden de manera autónoma e íntegra a nuestro análisis basado en la cédula declarada.
+
+---
+
+## 9. Rúbrica de Evaluación
+
+| Criterio de Evaluación | Puntos |
+| :--- | :--- |
+| Pseudocódigo (insertar, buscar, eliminar) entregado antes del código y consistente con la implementación | 15 |
+| Generación de valores desde la cédula (lectura, validación y fórmula Vᵢ) | 10 |
+| Inserción y recorridos (inorden, preorden, postorden) correctos | 10 |
+| Búsqueda con conteo de comparaciones | 10 |
+| Eliminación correcta en los tres casos (hoja, un hijo, dos hijos) | 15 |
+| Calidad del código (clases separadas, nombres claros, comentarios, compila con javac) | 10 |
+| Coherencia con el taller en papel (misma cédula → mismo árbol y mismos conteos) | 5 |
+| Video explicativo (requisitos de la sección 5) | 20 |
+| Declaración de uso de IA y portada completa | 5 |
+| **Total** | **100** |
+
+---
