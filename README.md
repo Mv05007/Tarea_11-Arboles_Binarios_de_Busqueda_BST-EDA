@@ -158,7 +158,15 @@ Nosotros, los integrantes del grupo, declaramos bajo compromiso de integridad ac
 
 ---
 
-## 9. Rúbrica de Evaluación
+## 9. Enlace del Repositorio Oficial
+
+Para revisar el código fuente en línea, puede acceder al repositorio público mediante el siguiente enlace:
+
+* **Repositorio en GitHub:** [https://github.com/Mv05007/Tarea_11-Arboles_Binarios_de_Busqueda_BST-EDA](https://github.com/Mv05007/Tarea_11-Arboles_Binarios_de_Busqueda_BST-EDA)
+  
+---
+
+## 10. Rúbrica de Evaluación
 
 | Criterio de Evaluación | Puntos |
 | :--- | :--- |
