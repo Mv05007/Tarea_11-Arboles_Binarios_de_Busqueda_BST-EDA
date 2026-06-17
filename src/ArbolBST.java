@@ -143,4 +143,44 @@ public class ArbolBST {
             recorridoInorden(nodo.derecho);
         }
     }
+    public void imprimirPreorden() {
+        System.out.print("Preorden: ");
+        recorridoPreorden(raiz);
+        System.out.println();
+    }
+
+    private void recorridoPreorden(Nodo nodo) {
+        if (nodo != null) {
+            System.out.print(nodo.valor + " ");
+            recorridoPreorden(nodo.izquierdo);
+            recorridoPreorden(nodo.derecho);
+        }
+    }
+
+    public void imprimirPostorden() {
+        System.out.print("Postorden: ");
+        recorridoPostorden(raiz);
+        System.out.println();
+    }
+
+    private void recorridoPostorden(Nodo nodo) {
+        if (nodo != null) {
+            recorridoPostorden(nodo.izquierdo);
+            recorridoPostorden(nodo.derecho);
+            System.out.print(nodo.valor + " ");
+        }
+    }
+
+    public int altura() {
+        return calcularAltura(raiz);
+    }
+
+    private int calcularAltura(Nodo nodo) {
+        if (nodo == null) {
+            return 0;
+        }
+        int alturaIzq = calcularAltura(nodo.izquierdo);
+        int alturaDer = calcularAltura(nodo.derecho);
+        return Math.max(alturaIzq, alturaDer) + 1;
+    }
 }
