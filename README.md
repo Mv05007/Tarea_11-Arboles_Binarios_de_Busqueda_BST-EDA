@@ -139,7 +139,6 @@ java -cp bin Main
 A continuación se adjunta el enlace al video explicativo sobre Tarea 11-Arboles binarios de búsqueda LST. En esta grabación, demostramos la ejecución en vivo del sistema, explicando detalladamente la lógica algorítmica detrás de las operaciones de inserción, búsqueda y los tres casos de eliminación en el Árbol Binario de Búsqueda.
 
 * **Sustentación del proyecto:** [https://youtu.be/9MSXXsGCYrI](https://youtu.be/9MSXXsGCYrI)
----
 
 ---
 
