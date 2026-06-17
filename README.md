@@ -134,9 +134,16 @@ java -cp bin Main
 
 ```
 
+## 6. Enlace al video de YouTube
+
+A continuación se adjunta el enlace al video explicativo sobre Tarea 11-Arboles binarios de búsqueda LST. En esta grabación, demostramos la ejecución en vivo del sistema, explicando detalladamente la lógica algorítmica detrás de las operaciones de inserción, búsqueda y los tres casos de eliminación en el Árbol Binario de Búsqueda.
+
+* **Sustentación del proyecto:** [https://youtu.be/9MSXXsGCYrI](https://youtu.be/9MSXXsGCYrI)
 ---
 
-## 6. Enlace a Diagramas (Figma)
+---
+
+## 7. Enlace a Diagramas (Figma)
 
 Para el diseño y la construcción visual de los diagramas de los árboles binarios de búsqueda de este taller, utilizamos la herramienta digital Figma.
 
@@ -146,6 +153,6 @@ En cumplimiento con las instrucciones de la guía de la asignatura, a continuaci
 
 ---
 
-## 7. Declaración Obligatoria de Integridad Académica y Uso de IA
+## 8. Declaración Obligatoria de Integridad Académica y Uso de IA
 
 Nosotros, los integrantes del grupo, declaramos bajo compromiso de integridad académica que el código fuente presentado fue estructurado, analizado y desarrollado algorítmicamente en estricto cumplimiento con la lógica establecida en nuestro taller físico. Se utilizó Inteligencia Artificial (IA) exclusivamente como herramienta de consulta para la validación de la sintaxis iterativa en Java y para estructurar el formato de presentación en Markdown de este documento, respetando integralmente las directrices de la asignatura. Garantizamos que el código, la ejecución y las salidas mostradas corresponden de manera autónoma e íntegra a nuestro análisis basado en la cédula declarada.
