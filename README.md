@@ -142,7 +142,7 @@ Para el diseño y la construcción visual de los diagramas de los árboles binar
 
 En cumplimiento con las instrucciones de la guía de la asignatura, a continuación se adjunta el enlace fuente compartido con los permisos de edición vigentes para su respectiva revisión y verificación técnica:
 
-* **Enlace editable del proyecto:** [https://www.figma.com/board/UjgTSyjlyBP3LSqcJt2eaj/%C3%81RBOLES-DE-LA-TAREA-EN-CLASE-112node-id=0-1&t=2RfiAj0NpO5uZAux-1](https://www.google.com/search?q=https://www.figma.com/board/UjgTSyjlyBP3LSqcJt2eaj/%25C3%2581RBOLES-DE-LA-TAREA-EN-CLASE-112node-id%3D0-1%26t%3D2RfiAj0NpO5uZAux-1)
+* **Enlace editable del proyecto:** [https://www.figma.com/board/UjgTSyjlyBP3LSqcJt2eaj/%C3%81RBOLES-DE-LA-TAREA-EN-CLASE-11?node-id=0-1&t=2RfiAj0NpO5uZAux-1](https://www.figma.com/board/UjgTSyjlyBP3LSqcJt2eaj/%C3%81RBOLES-DE-LA-TAREA-EN-CLASE-11?node-id=0-1&t=2RfiAj0NpO5uZAux-1)
 
 ---
 
